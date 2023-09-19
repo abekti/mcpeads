@@ -28,205 +28,95 @@
     }
   ],
   "Mods": [
-    {
+     {
       "name": "Game",
       "image": "https://bagoolll.github.io/mcpeaset/happymod/1.jpg",
-      "link_mods": "https://www.atmegame.com/games/brick-breaker-bash#fullscreen",
+      "link_mods": "null",
       "link_saves": "null",
       "type": "C",
-      "description": "mod games"
+      "description": "mod games",
+      "external_link": "https://www.atmegame.com/games/brick-breaker-bash#fullscreen"
     },
-	{
+    {
       "name": "Game",
       "image": "https://bagoolll.github.io/mcpeaset/happymod/2.jpg",
-      "link_mods": "https://www.atmegame.com/games/cannon-shot#fullscreen",
+      "link_mods": "null",
       "link_saves": "null",
       "type": "C",
-      "description": "mod games"
+      "description": "mod games",
+      "external_link": "https://www.atmegame.com/games/cannon-shot#fullscreen"
     },
-	 {
+    {
       "name": "Game",
       "image": "https://bagoolll.github.io/mcpeaset/happymod/3.jpg",
-      "link_mods": "https://www.atmegame.com/games/battleship-arena#fullscreen",
+      "link_mods": "null",
       "link_saves": "null",
       "type": "C",
-      "description": "mod games"
+      "description": "mod games",
+      "external_link": "https://www.atmegame.com/games/battleship-arena#fullscreen"
     },
-	 {
+    {
       "name": "Game",
       "image": "https://bagoolll.github.io/mcpeaset/happymod/4.jpg",
-      "link_mods": "https://www.atmegame.com/games/gold-miner#fullscreen",
+      "link_mods": "null",
       "link_saves": "null",
       "type": "C",
-      "description": "mod games"
+      "description": "mod games",
+      "external_link": "https://www.atmegame.com/games/gold-miner#fullscreen"
     },
-	 {
+    {
       "name": "Game",
       "image": "https://bagoolll.github.io/mcpeaset/happymod/5.jpg",
-      "link_mods": "https://www.atmegame.com/games/stickman-table-tennis#fullscreen",
+      "link_mods": "null",
       "link_saves": "null",
       "type": "C",
-      "description": "mod games"
+      "description": "mod games",
+      "external_link": "https://www.atmegame.com/games/stickman-table-tennis#fullscreen"
     },
-	 {
+    {
       "name": "Game",
       "image": "https://bagoolll.github.io/mcpeaset/happymod/6.jpg",
-      "link_mods": "https://www.atmegame.com/games/strike-expert#fullscreen",
+      "link_mods": "null",
       "link_saves": "null",
       "type": "C",
-      "description": "mod games"
+      "description": "mod games",
+      "external_link": "https://www.atmegame.com/games/strike-expert#fullscreen"
     },
-	 {
+    {
       "name": "Game",
       "image": "https://bagoolll.github.io/mcpeaset/happymod/7.jpg",
-      "link_mods": "https://www.atmegame.com/games/knife-vs-zombies#fullscreen",
+      "link_mods": "null",
       "link_saves": "null",
       "type": "C",
-      "description": "mod games"
+      "description": "mod games",
+      "external_link": "https://www.atmegame.com/games/knife-vs-zombies#fullscreen"
     },
-	 {
+    {
       "name": "Game",
       "image": "https://bagoolll.github.io/mcpeaset/happymod/8.jpg",
-      "link_mods": "https://www.atmegame.com/games/hexa-puzzles#fullscreen",
+      "link_mods": "null",
       "link_saves": "null",
       "type": "C",
-      "description": "mod games"
+      "description": "mod games",
+      "external_link": "https://www.atmegame.com/games/hexa-puzzles#fullscreen"
     },
-	 {
+    {
       "name": "Game",
       "image": "https://bagoolll.github.io/mcpeaset/happymod/9.jpg",
-      "link_mods": "https://www.atmegame.com/games/assassin-knight#fullscreen",
+      "link_mods": "null",
       "link_saves": "null",
       "type": "C",
-      "description": "mod games"
+      "description": "mod games",
+      "external_link": "https://www.atmegame.com/games/assassin-knight#fullscreen"
     },
-	 {
+    {
       "name": "Game",
       "image": "https://bagoolll.github.io/mcpeaset/happymod/10.jpg",
-      "link_mods": "https://www.atmegame.com/games/billiards#fullscreen",
+      "link_mods": "null",
       "link_saves": "null",
       "type": "C",
-      "description": "mod games"
-    },
-	 {
-      "name": "Game",
-      "image": "https://bagoolll.github.io/mcpeaset/happymod/11.jpg",
-      "link_mods": "https://www.atmegame.com/games/magikmon#fullscreen",
-      "link_saves": "null",
-      "type": "C",
-      "description": "mod games"
-    },
-	 {
-      "name": "Game",
-      "image": "https://bagoolll.github.io/mcpeaset/happymod/12.jpg",
-      "link_mods": "https://www.atmegame.com/games/fastlaners#fullscreen",
-      "link_saves": "null",
-      "type": "C",
-      "description": "mod games"
-    },
-	 {
-      "name": "Game",
-      "image": "https://bagoolll.github.io/mcpeaset/happymod/13.jpg",
-      "link_mods": "https://www.atmegame.com/games/turbo-stars#fullscreen",
-      "link_saves": "null",
-      "type": "C",
-      "description": "mod games"
-    },
-	 {
-      "name": "Game",
-      "image": "https://bagoolll.github.io/mcpeaset/happymod/14.jpg",
-      "link_mods": "https://www.atmegame.com/games/cartoon-stunt-car#fullscreen",
-      "link_saves": "null",
-      "type": "C",
-      "description": "mod games"
-    },
-	 {
-      "name": "Game",
-      "image": "https://bagoolll.github.io/mcpeaset/happymod/15.jpg",
-      "link_mods": "https://www.atmegame.com/games/stickman-rush#fullscreen",
-      "link_saves": "null",
-      "type": "C",
-      "description": "mod games"
-    },
-	 {
-      "name": "Game",
-      "image": "https://bagoolll.github.io/mcpeaset/happymod/16.jpg",
-      "link_mods": "https://www.atmegame.com/games/stickman-team-force#fullscreen",
-      "link_saves": "null",
-      "type": "C",
-      "description": "mod games"
-    },
-	 {
-      "name": "Game",
-      "image": "https://bagoolll.github.io/mcpeaset/happymod/17.jpg",
-      "link_mods": "https://www.atmegame.com/games/rombo#fullscreen",
-      "link_saves": "null",
-      "type": "C",
-      "description": "mod games"
-    },
-	 {
-      "name": "Game",
-      "image": "https://bagoolll.github.io/mcpeaset/happymod/18.jpg",
-      "link_mods": "https://www.atmegame.com/games/spider-santa-claus#fullscreen",
-      "link_saves": "null",
-      "type": "C",
-      "description": "mod games"
-    },
-	 {
-      "name": "Game",
-      "image": "https://bagoolll.github.io/mcpeaset/happymod/19.jpg",
-      "link_mods": "https://www.atmegame.com/games/magic-bubble-fox#fullscreen",
-      "link_saves": "null",
-      "type": "C",
-      "description": "mod games"
-    },
-	 {
-      "name": "Game",
-      "image": "https://bagoolll.github.io/mcpeaset/happymod/20.jpg",
-      "link_mods": "https://www.atmegame.com/games/hexa-match#fullscreen",
-      "link_saves": "null",
-      "type": "C",
-      "description": "mod games"
-    },
-	{
-      "name": "Game",
-      "image": "https://bagoolll.github.io/mcpeaset/happymod/21.jpg",
-      "link_mods": "https://www.atmegame.com/games/desert-champion#fullscreen",
-      "link_saves": "null",
-      "type": "C",
-      "description": "mod games"
-    },
-	{
-      "name": "Game",
-      "image": "https://bagoolll.github.io/mcpeaset/happymod/22.jpg",
-      "link_mods": "https://www.atmegame.com/games/paint-the-house#fullscreen",
-      "link_saves": "null",
-      "type": "C",
-      "description": "mod games"
-    },
-	{
-      "name": "Game",
-      "image": "https://bagoolll.github.io/mcpeaset/happymod/23.jpg",
-      "link_mods": "https://www.atmegame.com/games/plug-it#fullscreen",
-      "link_saves": "null",
-      "type": "C",
-      "description": "mod games"
-    },
-	{
-      "name": "Game",
-      "image": "https://bagoolll.github.io/mcpeaset/happymod/24.jpg",
-      "link_mods": "https://www.atmegame.com/games/crossy-traffic#fullscreen",
-      "link_saves": "null",
-      "type": "C",
-      "description": "mod games"
-    },
-	{
-      "name": "Game",
-      "image": "https://bagoolll.github.io/mcpeaset/happymod/25.jpg",
-      "link_mods": "https://www.atmegame.com/games/happy-popcorn#fullscreen",
-      "link_saves": "null",
-      "type": "C",
-      "description": "mod games"
+      "description": "mod games",
+      "external_link": "https://www.atmegame.com/games/billiards#fullscreen"
     }
   ]
 }
