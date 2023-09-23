@@ -1,0 +1,122 @@
+{
+  "Ads": [
+    {
+    "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"1",
+      "interval_intertitial": 0,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"205249759",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+
+    }
+  ],
+  "Mods": [
+     {
+      "name": "Game",
+      "image": "https://bagoolll.github.io/mcpeaset/happymod/1.jpg",
+      "link_mods": "null",
+      "link_saves": "null",
+      "type": "C",
+      "description": "mod games",
+      "external_link": "https://www.atmegame.com/games/brick-breaker-bash#fullscreen"
+    },
+    {
+      "name": "Game",
+      "image": "https://bagoolll.github.io/mcpeaset/happymod/2.jpg",
+      "link_mods": "null",
+      "link_saves": "null",
+      "type": "C",
+      "description": "mod games",
+      "external_link": "https://www.atmegame.com/games/cannon-shot#fullscreen"
+    },
+    {
+      "name": "Game",
+      "image": "https://bagoolll.github.io/mcpeaset/happymod/3.jpg",
+      "link_mods": "null",
+      "link_saves": "null",
+      "type": "C",
+      "description": "mod games",
+      "external_link": "https://www.atmegame.com/games/battleship-arena#fullscreen"
+    },
+    {
+      "name": "Game",
+      "image": "https://bagoolll.github.io/mcpeaset/happymod/4.jpg",
+      "link_mods": "null",
+      "link_saves": "null",
+      "type": "C",
+      "description": "mod games",
+      "external_link": "https://www.atmegame.com/games/gold-miner#fullscreen"
+    },
+    {
+      "name": "Game",
+      "image": "https://bagoolll.github.io/mcpeaset/happymod/5.jpg",
+      "link_mods": "null",
+      "link_saves": "null",
+      "type": "C",
+      "description": "mod games",
+      "external_link": "https://www.atmegame.com/games/stickman-table-tennis#fullscreen"
+    },
+    {
+      "name": "Game",
+      "image": "https://bagoolll.github.io/mcpeaset/happymod/6.jpg",
+      "link_mods": "null",
+      "link_saves": "null",
+      "type": "C",
+      "description": "mod games",
+      "external_link": "https://www.atmegame.com/games/strike-expert#fullscreen"
+    },
+    {
+      "name": "Game",
+      "image": "https://bagoolll.github.io/mcpeaset/happymod/7.jpg",
+      "link_mods": "null",
+      "link_saves": "null",
+      "type": "C",
+      "description": "mod games",
+      "external_link": "https://www.atmegame.com/games/knife-vs-zombies#fullscreen"
+    },
+    {
+      "name": "Game",
+      "image": "https://bagoolll.github.io/mcpeaset/happymod/8.jpg",
+      "link_mods": "null",
+      "link_saves": "null",
+      "type": "C",
+      "description": "mod games",
+      "external_link": "https://www.atmegame.com/games/hexa-puzzles#fullscreen"
+    },
+    {
+      "name": "Game",
+      "image": "https://bagoolll.github.io/mcpeaset/happymod/9.jpg",
+      "link_mods": "null",
+      "link_saves": "null",
+      "type": "C",
+      "description": "mod games",
+      "external_link": "https://www.atmegame.com/games/assassin-knight#fullscreen"
+    },
+    {
+      "name": "Game",
+      "image": "https://bagoolll.github.io/mcpeaset/happymod/10.jpg",
+      "link_mods": "null",
+      "link_saves": "null",
+      "type": "C",
+      "description": "mod games",
+      "external_link": "https://www.atmegame.com/games/billiards#fullscreen"
+    }
+  ]
+}
